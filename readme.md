@@ -21,6 +21,8 @@ Uto-docs is an open source project, meaning you can contribute to it!
 If something in this documentation is misleading, please open an issue, describe the issue in a efficient while descriptive way, and we will be on our way to fix it ASAP.
 #### Opening a Pull Request
 Do you want to contribute? Then open a pull request! The documentation is written in `.md` files, meaning it's basically markdown only, and super easy to understand! You can read a guide on Github markdowns [here](https://guides.github.com/features/mastering-markdown/). If yours is good, maybe there will even be a reward, who knows? 👀
+#### Discussion
+Have something to discuss with us, maybe feedback, suggestions, help, or something else? You can open a discussion with an appropriate label to talk to us and the community!
 #### Donations
 We currently do not offer donations, as this is maintaned freely using [Vercel](https://www.vercel.com/)'s [Nextra template](https://github.com/shuding/nextra).
 
